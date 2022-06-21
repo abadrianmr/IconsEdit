@@ -52,8 +52,7 @@
                 <DrawingBrush Stretch="None">
                     <DrawingBrush.Drawing>
                         <DrawingGroup>
-                            <DrawingGroup x:Name="canvas">
-                                <GeometryDrawing Brush="{DynamicResource canvas}" Geometry="F1M16,16H0V0H16Z" />
+                            <DrawingGroup x:Name="canvas2">
                                 <GeometryDrawing Brush="{DynamicResource canvas}" Geometry="F1M16,16H0V0H16Z" />
                             </DrawingGroup>
                             <DrawingGroup x:Name="level_1">
